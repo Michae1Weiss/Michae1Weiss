@@ -1,4 +1,4 @@
-## Hi
+## Hello, I'm Mykhailo Bilyi 👋🏻
 - 🔭 I’m currently working on [twenty-games-challenge](https://github.com/Michae1Weiss/twenty-games-challenge) and [storm-the-house](https://github.com/Michae1Weiss/storm-the-house)
 - 🌱 I’m currently learning [Rust](https://rust-lang.org/) and [Bevy](https://bevy.org/)
 

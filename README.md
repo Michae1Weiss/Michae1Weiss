@@ -1,6 +1,7 @@
 ## Hello, I'm Mykhailo Bilyi 👋🏻
 - 🔭 I’m currently working on [twenty-games-challenge](https://github.com/Michae1Weiss/twenty-games-challenge) and [storm-the-house](https://github.com/Michae1Weiss/storm-the-house)
 - 🌱 I’m currently learning [Rust](https://rust-lang.org/) and [Bevy](https://bevy.org/)
+- 📖 I'm currently reading [A Philosophy of Software Design, 2nd Edition](https://www.amazon.com/dp/173210221X)
 
 <!--
 **Michae1Weiss/Michae1Weiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
